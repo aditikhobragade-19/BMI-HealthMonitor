@@ -1,0 +1,80 @@
+
+========== BMI REPORT ==========
+Name: akaknsha
+Weight: 60.0 kg
+Height: 159.0 cm
+BMI: 23.73
+Category: Normal Weight
+Health Tip: Maintain your healthy habits!
+Date & Time: 30-10-2026 06:59 PM
+===============================
+
+========== BMI REPORT ==========
+Name: saloni
+Weight: 45.0 kg
+Height: 160.0 cm
+BMI: 17.58
+Category: Underweight
+Health Tip: Focus on balanced nutrition.
+Date & Time: 30-10-2026 07:07 PM
+===============================
+
+========== BMI REPORT ==========
+Name: aanshu
+Weight: 25.0 kg
+Height: 156.0 cm
+BMI: 10.27
+Category: Underweight
+Health Tip: Focus on balanced nutrition.
+Date & Time: 30-10-2026 07:08 PM
+===============================
+
+========== BMI REPORT ==========
+Name: tanu
+Weight: 30.0 kg
+Height: 148.0 cm
+BMI: 13.70
+Category: Underweight
+Health Tip: Focus on balanced nutrition.
+Date & Time: 30-10-2026 07:11 PM
+===============================
+
+========== BMI REPORT ==========
+Name: john
+Weight: 45.0 kg
+Height: 178.0 cm
+BMI: 14.20
+Category: Underweight
+Health Tip: Focus on balanced nutrition.
+Date & Time: 30-10-2026 07:15 PM
+===============================
+
+========== BMI HEALTH REPORT ==========
+Date & Time : 30-10-2026 07:40 PM
+Name        : Aarav kappor
+Weight      : 72.0 kg
+Height      : 175.0 cm
+BMI         : 23.51
+Category    : Normal Weight
+Advice      : Great! Keep maintaining healthy habits.
+=======================================
+
+========== BMI HEALTH REPORT ==========
+Date & Time : 30-10-2026 07:40 PM
+Name        : Aarav kappor
+Weight      : 72.0 kg
+Height      : 175.0 cm
+BMI         : 23.51
+Category    : Normal Weight
+Advice      : Great! Keep maintaining healthy habits.
+=======================================
+
+========== BMI HEALTH REPORT ==========
+Date & Time : 30-10-2026 07:40 PM
+Name        : Aarav kappor
+Weight      : 72.0 kg
+Height      : 175.0 cm
+BMI         : 23.51
+Category    : Normal Weight
+Advice      : Great! Keep maintaining healthy habits.
+=======================================

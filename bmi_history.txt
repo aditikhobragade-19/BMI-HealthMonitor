@@ -1,0 +1,15 @@
+Name: aditi | Weight: 56.0 kg | Height: 158.0 cm | BMI: 22.43 | Category: Normal Weight
+Name: Aditi | Weight: 22.0 kg | Height: 158.0 cm | BMI: 8.81 | Category: Underweight
+Name: Dipali | BMI: 20.03 | Category: Normal Weight
+Name: akaknsha | BMI: 23.73 | Category: Normal Weight
+Name: saloni | BMI: 17.58 | Category: Underweight
+Name: aanshu | BMI: 10.27 | Category: Underweight
+Name: tanu | BMI: 13.70 | Category: Underweight
+Name: john | BMI: 14.20 | Category: Underweight
+2026-10-30 19:21 | sanika soni | 45.0 kg | 175.0 cm | BMI: 14.69 | Underweight
+2026-10-30 19:22 | sanika soni | 45.0 kg | 175.0 cm | BMI: 14.69 | Underweight
+2026-10-30 19:24 | mona soni | 50.0 kg | 160.0 cm | BMI: 19.53 | Normal Weight
+2026-10-30 19:25 | hjshg | 15.0 kg | 130.0 cm | BMI: 8.88 | Underweight
+30-10-2026 07:40 PM | Aarav kappor | 72.0 kg | 175.0 cm | BMI: 23.51 | Normal Weight
+30-10-2026 07:40 PM | Aarav kappor | 72.0 kg | 175.0 cm | BMI: 23.51 | Normal Weight
+30-10-2026 07:40 PM | Aarav kappor | 72.0 kg | 175.0 cm | BMI: 23.51 | Normal Weight
